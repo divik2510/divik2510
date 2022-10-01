@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://i.pinimg.com/originals/53/71/2f/53712f9fa2e10657e355400cbbad9310.gif" width="260" height="230">
 
-I'm a 2nd year **Computer Science** student from **JSS Academy of Technical Education, Noida**.<br> 
+I'm a 3rd year **Computer Science** student from **JSS Academy of Technical Education, Noida**.<br> 
 I'm a **ML/AI Enthusiast**💻.<br>
 I love **Brain Storming Sessions**💡 that helps me come up with **Optimised Solutions** for problems. 
 
